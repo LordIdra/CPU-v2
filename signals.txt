@@ -1,0 +1,49 @@
+S-ALU-UseCarry        Carry bit propagated to ALU                       
+S-ALU-Increment       ALU increment signal
+S-ALU-Invert          ALU invert signal
+S-ALU-Propagate       ALU propagates each carry bit to the next adder
+S-ALU-CarryOut        ALU outputs carry bits
+S-ALU-ResultOut       ALU outputs result bits
+S-ALU-OrOut           ALU outputs OR bits
+
+S-ADR-Immediate       Send last 12 bits of operand to PC
+S-ADR-Direct          Send instruction registers to PC
+
+S-BRA-Unconditional   Branch always
+S-BRA-Less            Branch on F-Less
+S-BRA-Greater         Branch on F-Greater
+S-BRA-Equal           Branch on F-Equal
+S-BRA-NotEqual        Branch on !F-Equal
+
+S-INS-RegReadFirst    Read first register
+S-INS-RegReadSecond   Read second register
+S-INS-ValReadCentre   Read central byte as value
+S-INS-ValReadEnd      Read last nibble as value
+
+S-REG-WriteALU        Write ALU output to output register
+S-REG-WriteMDR        Write MDR to output register
+
+S-MEM-Load            Load memory
+S-MEM-Store           Store memory
+S-MEM-WriteReg        Write register to MDR
+S-MEM-WriteMem        Write memory output to MDR
+
+V-REG-First
+V-REG-Second
+V-VAL-Centre
+V-VAL-End
+
+D-ALU-Increment         
+
+D-RPC-MemAdder
+D-RPC-Registers
+
+D-CLK-CIRFirst
+D-CLK-CIRSecond
+D-CLK-PC
+D-CLK-Flags
+D-CLK-RegBufferFirst
+D-CLk-RegBufferSecond
+D-CLk-RegWrite
+D-CLK-SRAM
+D-CLK-MDR
