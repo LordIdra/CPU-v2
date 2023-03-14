@@ -107,7 +107,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Data_reg</string>
+          <string>Data_ALU</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -147,7 +147,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Write_reg</string>
+          <string>Write_ALU</string>
         </entry>
         <entry>
           <string>pinNumber</string>

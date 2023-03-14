@@ -21,6 +21,14 @@
 ----- Mr. Henriot -----
 
 ----- Ms. Morton -----
+(1) zeta
+(2) sigma
+(3) kappa
+(4) epsilon
+(5) omicron
+(6) zetacron
+(7) kappacron
+(8) neutrino
 
 ----- Lady Margaret -----
 
