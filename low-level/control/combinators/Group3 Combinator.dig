@@ -128,20 +128,6 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>MEM-Load</string>
-        </entry>
-      </elementAttributes>
-      <pos x="940" y="200"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Out</elementName>
-      <elementAttributes>
-        <entry>
-          <string>small</string>
-          <boolean>true</boolean>
-        </entry>
-        <entry>
-          <string>Label</string>
           <string>MEM-Store</string>
         </entry>
       </elementAttributes>
@@ -159,7 +145,7 @@
           <string>MDR-WriteMem</string>
         </entry>
       </elementAttributes>
-      <pos x="940" y="360"/>
+      <pos x="940" y="200"/>
     </visualElement>
     <visualElement>
       <elementName>And</elementName>
@@ -205,19 +191,11 @@
     </wire>
     <wire>
       <p1 x="900" y="200"/>
-      <p2 x="920" y="200"/>
-    </wire>
-    <wire>
-      <p1 x="920" y="200"/>
       <p2 x="940" y="200"/>
     </wire>
     <wire>
       <p1 x="800" y="40"/>
       <p2 x="940" y="40"/>
-    </wire>
-    <wire>
-      <p1 x="920" y="360"/>
-      <p2 x="940" y="360"/>
     </wire>
     <wire>
       <p1 x="900" y="280"/>
@@ -278,10 +256,6 @@
     <wire>
       <p1 x="760" y="80"/>
       <p2 x="760" y="400"/>
-    </wire>
-    <wire>
-      <p1 x="920" y="200"/>
-      <p2 x="920" y="360"/>
     </wire>
     <wire>
       <p1 x="620" y="20"/>

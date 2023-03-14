@@ -9,7 +9,6 @@ S-ALU-OrOut           ALU outputs OR bits
 S-ADR-Immediate       Send last 12 bits of operand to PC
 S-ADR-Direct          Send instruction registers to PC
 
-S-BRA-Branch          Any branch
 S-BRA-Unconditional   Branch always
 S-BRA-Less            Branch on F-Less
 S-BRA-Greater         Branch on F-Greater
@@ -26,8 +25,9 @@ S-REG-WriteMDR        Write MDR to output register
 
 S-MEM-Load            Load memory
 S-MEM-Store           Store memory
-S-MEM-WriteReg        Write register to MDR
-S-MEM-WriteMem        Write memory output to MDR
+
+S-MDR-WriteALU        Write register to MDR
+S-MDR-WriteMEM        Write memory output to MDR
 
 V-REG-First
 V-REG-Second
@@ -45,7 +45,7 @@ D-CLK-RPC
 D-CLK-Flags
 D-CLK-RegBufferFirst
 D-CLk-RegBufferSecond
-D-CLk-RegWrite
+D-CLk-RegOutput
 D-CLK-SRAM
 D-CLK-MDR
 
@@ -259,45 +259,45 @@ FirstByte REG-WriteALU REG-WriteMDR
 
 
 
-FirstByte MEM-Load MEM-Store
+FirstByte S-MEM-Store
 
-8         0        0
-24        0        0
-40        0        0
-56        0        0
-72        0        0
-88        0        0
-104       0        0
+8         0
+24        0
+40        0
+56        0
+72        0
+88        0
+104       0
               
-4         0        0
-20        0        0
-36        0        0
-52        0        0
+4         0
+20        0
+36        0
+52        0
               
-2         1        0
-18        0        1
-34        0        0
-50        0        0
-66        0        0
-82        0        0
-98        0        0
+2         0
+18        1
+34        0
+50        0
+66        0
+82        0
+98        0
               
-1         0        0
-17        0        0
-33        0        0
-49        0        0
-65        0        0
-81        0        0
-97        0        0
+1         0
+17        0
+33        0
+49        0
+65        0
+81        0
+97        0
               
-128       1        0
-144       0        1
-160       0        0
-176       0        0
-192       0        0
-208       0        0
-224       0        0
-240       0        0
+128       0
+144       1
+160       0
+176       0
+192       0
+208       0
+224       0
+240       0
 
 
 
