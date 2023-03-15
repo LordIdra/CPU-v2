@@ -17,9 +17,9 @@ S-BRA-NotEqual        Branch on !F-Equal
 
 S-INS-RegReadFirst    Read first register
 S-INS-RegReadSecond   Read second register
-S-INS-ValReadCentre   Read central byte as value
-S-INS-ValReadEnd      Read last nibble as value
+S-INS-ValRead         Read central byte as value
 
+S-REG-WriteVAL        Write immediate value to output register
 S-REG-WriteALU        Write ALU output to output register
 S-REG-WriteMDR        Write MDR to output register
 
