@@ -35,7 +35,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>16</int>
+          <int>12</int>
         </entry>
         <entry>
           <string>pinNumber</string>
@@ -50,6 +50,10 @@
         <entry>
           <string>AddrBits</string>
           <int>13</int>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>ProgramMemory</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -67,11 +71,11 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>16</string>
+          <string>12,1</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
-          <string>13,3</string>
+          <string>13</string>
         </entry>
       </elementAttributes>
       <pos x="580" y="400"/>
@@ -138,6 +142,16 @@
       </elementAttributes>
       <pos x="360" y="280"/>
     </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="560" y="420"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -155,6 +169,10 @@
     <wire>
       <p1 x="660" y="420"/>
       <p2 x="680" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="560" y="420"/>
+      <p2 x="580" y="420"/>
     </wire>
     <wire>
       <p1 x="740" y="440"/>
