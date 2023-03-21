@@ -675,9 +675,24 @@
       <pos x="600" y="480"/>
     </visualElement>
     <visualElement>
-      <elementName>PowerSupply</elementName>
-      <elementAttributes/>
-      <pos x="600" y="400"/>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="700"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="720"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -751,11 +766,15 @@
     </wire>
     <wire>
       <p1 x="640" y="720"/>
-      <p2 x="920" y="720"/>
+      <p2 x="860" y="720"/>
     </wire>
     <wire>
       <p1 x="580" y="720"/>
       <p2 x="600" y="720"/>
+    </wire>
+    <wire>
+      <p1 x="900" y="720"/>
+      <p2 x="920" y="720"/>
     </wire>
     <wire>
       <p1 x="780" y="560"/>
@@ -810,8 +829,12 @@
       <p2 x="600" y="700"/>
     </wire>
     <wire>
-      <p1 x="760" y="700"/>
+      <p1 x="900" y="700"/>
       <p2 x="920" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="760" y="700"/>
+      <p2 x="860" y="700"/>
     </wire>
     <wire>
       <p1 x="780" y="540"/>

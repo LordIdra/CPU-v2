@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="-80 -80 220 200"
+   viewBox="-80 -80 340 180"
    version="1.1"
-   id="svg92"
+   id="svg19"
    sodipodi:docname="Clock.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -10,10 +10,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs94" />
+     id="defs21" />
   <sodipodi:namedview
      showgrid="true"
-     id="namedview67"
+     id="namedview4"
      pagecolor="#505050"
      bordercolor="#eeeeee"
      borderopacity="1"
@@ -21,38 +21,40 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="4.255"
-     inkscape:cx="82.491187"
-     inkscape:cy="72.737955"
+     inkscape:zoom="0.31117898"
+     inkscape:cx="-258.69357"
+     inkscape:cy="136.57735"
      inkscape:window-width="1866"
      inkscape:window-height="1053"
      inkscape:window-x="54"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg92">
+     inkscape:current-layer="svg19">
     <inkscape:grid
        type="xygrid"
        empspacing="4"
-       spacingx="20"
-       spacingy="20"
-       id="grid65"
-       enabled="true"
-       visible="true"
-       snapvisiblegridlinesonly="true"
-       dotted="false" />
+       spacingx="5"
+       spacingy="5"
+       id="grid2"
+       dotted="false"
+       enabled="true" />
   </sodipodi:namedview>
   <rect
-     style="fill:none;stroke:#ed2424;stroke-opacity:1"
-     id="rect492"
-     width="101.16703"
-     height="173.87976"
-     x="-101.16703"
-     y="-93.879761" />
+     stroke="black"
+     stroke-width="201.988"
+     fill="#ffffb4"
+     fill-opacity="0.784314"
+     x="-309.00613"
+     y="-1149.0061"
+     width="798.01227"
+     height="2318.0122"
+     id="rect6"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1;stroke-width:20;stroke-dasharray:none" />
   <g
-     id="g75">
+     id="g12">
     <circle
        fill="#00cc00"
-       id="pin:Pulse"
+       id="pin:S-CTL-HLT"
        cx="0"
        cy="0"
        r="3" />
@@ -61,55 +63,21 @@
        font-size="18"
        x="4"
        y="6"
-       id="text73">Pulse</text>
+       id="text10">S-CTL-HLT</text>
   </g>
   <g
-     id="g80"
-     transform="translate(-60.255249,-40.421996)">
+     id="g17">
     <circle
-       fill="#ff3333"
-       id="pin:Clk_1"
-       cx="60"
-       cy="0"
-       r="3" />
-    <text
-       fill="#cccccc"
-       font-size="18px"
-       text-anchor="end"
-       x="56"
-       y="6"
-       id="text78">Clk_1</text>
-  </g>
-  <g
-     id="g85">
-    <circle
-       fill="#ff3333"
-       id="pin:Clk_2"
-       cx="60"
+       fill="#00cc00"
+       id="pin:TestPulse"
+       cx="0"
        cy="20"
        r="3" />
     <text
        fill="#cccccc"
        font-size="18"
-       text-anchor="end"
-       x="56"
+       x="4"
        y="26"
-       id="text83">Clk_2</text>
-  </g>
-  <g
-     id="g90">
-    <circle
-       fill="#ff3333"
-       id="pin:Clk_3"
-       cx="60"
-       cy="40"
-       r="3" />
-    <text
-       fill="#cccccc"
-       font-size="18"
-       text-anchor="end"
-       x="56"
-       y="46"
-       id="text88">Clk_3</text>
+       id="text15">TestPulse</text>
   </g>
 </svg>

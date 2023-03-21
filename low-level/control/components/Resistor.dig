@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes>
+    <entry>
+      <string>shapeType</string>
+      <shapeType>CUSTOM</shapeType>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
+    </entry>
+    <entry>
+      <string>customShape</string>
+      <shape>
+        <pins>
+          <entry>
+            <string>In</string>
+            <pin>
+              <pos x="0" y="0"/>
+              <showLabel>false</showLabel>
+            </pin>
+          </entry>
+          <entry>
+            <string>Out</string>
+            <pin>
+              <pos x="80" y="0"/>
+              <showLabel>false</showLabel>
+            </pin>
+          </entry>
+        </pins>
+        <drawables>
+          <poly>
+            <poly path="M 63.5715,-2.0423293 L 80.02424,-2.0423293 L 80.02424,1.9576707 L 63.5715,1.9576707 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 0,-2 L 16,-2 L 16,2 L 0,2 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 31.62681,13.490095 L 36.398903,13.490095 L 36.398903,17.848478 L 31.62681,17.848478 Z" evenOdd="false"/>
+            <thickness>0</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 18.793451,-18.64861 L 23.716036,-18.64861 L 23.716036,-16.927544 L 18.793451,-16.927544 Z" evenOdd="false"/>
+            <thickness>0</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 44.633785,-18.8278 L 48.903206,-18.8278 L 48.903206,-16.174501 L 44.633785,-16.174501 Z" evenOdd="false"/>
+            <thickness>0</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 56.724773,15.064432 L 61.106422,15.064432 L 61.106422,17.689674 L 56.724773,17.689674 Z" evenOdd="false"/>
+            <thickness>0</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 12.015387,0.63730407 L 19.266792,-18.08258 L 23.251404,-16.719885 L 16,2 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 67.30613,-0.6824093 L 60.849483,17.065245 L 57.114853,15.705324 L 63.571503,-2.0423298 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 23.251406,-18.08258 L 29.407768,-1.1681137 L 25.648998,0.19996738 L 19.492634,-16.7145 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 29.407768,-1.1681137 L 35.564133,15.746354 L 31.805359,17.114435 L 25.648998,0.19996738 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 48.560898,-18.131773 L 54.71726,-1.2173042 L 50.95849,0.15077591 L 44.802128,-16.763693 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 54.71726,-1.2173042 L 60.873623,15.697161 L 57.114853,17.06524 L 50.95849,0.15077591 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 32.4894,15.697163 L 38.645763,-1.2173033 L 42.404533,0.15077782 L 36.24817,17.065245 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <poly>
+            <poly path="M 38.645763,-1.2173033 L 44.802124,-18.131767 L 48.560894,-16.763687 L 42.404533,0.15077782 Z" evenOdd="false"/>
+            <thickness>1</thickness>
+            <filled>true</filled>
+            <color>
+              <red>255</red>
+              <green>255</green>
+              <blue>255</blue>
+              <alpha>255</alpha>
+            </color>
+          </poly>
+          <text>
+            <p1 x="4" y="6"/>
+            <p2 x="5" y="6"/>
+            <text></text>
+            <orientation>LEFTBOTTOM</orientation>
+            <size>18</size>
+            <color>
+              <red>204</red>
+              <green>204</green>
+              <blue>204</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+          <text>
+            <p1 x="76" y="6"/>
+            <p2 x="77" y="6"/>
+            <text></text>
+            <orientation>RIGHTBOTTOM</orientation>
+            <size>18</size>
+            <color>
+              <red>204</red>
+              <green>204</green>
+              <blue>204</blue>
+              <alpha>255</alpha>
+            </color>
+          </text>
+        </drawables>
+        <label>
+          <p1 x="30" y="-20"/>
+          <p2 x="31" y="-20"/>
+          <text></text>
+          <orientation>CENTERBOTTOM</orientation>
+          <size>24</size>
+          <color>
+            <red>204</red>
+            <green>204</green>
+            <blue>204</blue>
+            <alpha>255</alpha>
+          </color>
+        </label>
+      </shape>
+    </entry>
+  </attributes>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>small</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>In</string>
+        </entry>
+        <entry>
+          <string>isHighZ</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="880" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>small</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>Out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="380"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="880" y="380"/>
+      <p2 x="900" y="380"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
