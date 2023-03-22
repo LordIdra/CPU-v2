@@ -4,7 +4,11 @@
   <attributes>
     <entry>
       <string>shapeType</string>
-      <shapeType>CUSTOM</shapeType>
+      <shapeType>DIL</shapeType>
+    </entry>
+    <entry>
+      <string>pinCount</string>
+      <int>126</int>
     </entry>
     <entry>
       <string>romContent</string>
@@ -14,7 +18,7 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>9</int>
+      <int>30</int>
     </entry>
     <entry>
       <string>customShape</string>
@@ -596,12 +600,12 @@
       <elementName>Resistor.dig</elementName>
       <elementAttributes>
         <entry>
-          <string>Label</string>
-          <string>10k</string>
-        </entry>
-        <entry>
           <string>rotation</string>
           <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>10k</string>
         </entry>
       </elementAttributes>
       <pos x="420" y="-920"/>

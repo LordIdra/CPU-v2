@@ -4,7 +4,11 @@
   <attributes>
     <entry>
       <string>shapeType</string>
-      <shapeType>CUSTOM</shapeType>
+      <shapeType>DIL</shapeType>
+    </entry>
+    <entry>
+      <string>pinCount</string>
+      <int>72</int>
     </entry>
     <entry>
       <string>romContent</string>
@@ -14,7 +18,7 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>9</int>
+      <int>30</int>
     </entry>
     <entry>
       <string>customShape</string>

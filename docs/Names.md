@@ -19,7 +19,14 @@
 (8) omicron
 
 ## Mr. Henriot
-N/A
+(1) neutrino
+(2) zeta
+(3) omicron
+(4) kappacron
+(5) epsilon
+(6) zetacron
+(7) kappa
+(8) sigma
 
 ## Ms. Morton
 (1) zeta
