@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Instructions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clock Cycle.md"
+                "file": "Instructions.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "eaa00c397469a749",
   "lastOpenFiles": [
+    "Clock Cycle.md",
     "Instructions.md",
     "Control Signals.md",
-    "Clock Cycle.md",
     "Names.md",
     "Instructions/Control Signals.svg",
     "Untitled Diagram.svg",
