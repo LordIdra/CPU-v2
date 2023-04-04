@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instructions.md",
+                "file": "Clock Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instructions.md",
+                "file": "Clock Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instructions.md",
+                "file": "Clock Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instructions.md"
+                "file": "Clock Cycle.md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "eaa00c397469a749",
   "lastOpenFiles": [
-    "Clock Cycle.md",
-    "Instructions.md",
+    "GateLabels.drawio",
     "Control Signals.md",
+    "Instructions.md",
+    "Clock Cycle.md",
     "Names.md",
     "Instructions/Control Signals.svg",
     "Untitled Diagram.svg",

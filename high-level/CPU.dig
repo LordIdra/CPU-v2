@@ -206,7 +206,7 @@ memory ProgramMemory(7)=115;
           <rotation rotation="3"/>
         </entry>
       </elementAttributes>
-      <pos x="-1160" y="520"/>
+      <pos x="-1160" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Probe</elementName>
@@ -216,7 +216,7 @@ memory ProgramMemory(7)=115;
           <rotation rotation="3"/>
         </entry>
       </elementAttributes>
-      <pos x="-1180" y="520"/>
+      <pos x="-1180" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Probe</elementName>
@@ -4769,7 +4769,7 @@ memory ProgramMemory(19)=129;
     </wire>
     <wire>
       <p1 x="-1160" y="480"/>
-      <p2 x="-1160" y="520"/>
+      <p2 x="-1160" y="540"/>
     </wire>
     <wire>
       <p1 x="-520" y="0"/>
@@ -4817,7 +4817,7 @@ memory ProgramMemory(19)=129;
     </wire>
     <wire>
       <p1 x="-1180" y="440"/>
-      <p2 x="-1180" y="520"/>
+      <p2 x="-1180" y="540"/>
     </wire>
     <wire>
       <p1 x="-540" y="0"/>

@@ -107,7 +107,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Data_ALU</string>
+          <string>Data_alu</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -147,7 +147,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Write_ALU</string>
+          <string>Write_alu</string>
         </entry>
         <entry>
           <string>pinNumber</string>
@@ -194,7 +194,7 @@
         <entry>
           <string>Testdata</string>
           <testData>
-            <dataString>	Clk_write Write_reg Write_mem Data_reg Data_mem Data_out
+            <dataString>	Clk_write Write_alu Write_mem Data_alu Data_mem Data_out
 loop(a, 512)
 	0	  0	    0	      Z        Z	0
 	1	  0	    0	      Z        Z	0
@@ -224,7 +224,7 @@ end loop</dataString>
         <entry>
           <string>Testdata</string>
           <testData>
-            <dataString>	Clk_write Write_reg Write_mem Data_reg Data_mem Data_out
+            <dataString>	Clk_write Write_alu Write_mem Data_alu Data_mem Data_out
 loop(a, 512)
 	let b = random(1&lt;&lt;16);
 	0	  1	    0	      (b)      Z	X
@@ -245,7 +245,7 @@ end loop</dataString>
         <entry>
           <string>Testdata</string>
           <testData>
-            <dataString>	Clk_write Write_reg Write_mem Data_reg Data_mem Data_out
+            <dataString>	Clk_write Write_alu Write_mem Data_alu Data_mem Data_out
 loop(a, 512)
 	let b = random(1&lt;&lt;16);
 	0	  0	    1	      0        (b)	X

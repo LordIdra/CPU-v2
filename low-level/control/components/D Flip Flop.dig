@@ -40,7 +40,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>!EN</string>
+          <string>~{EN}</string>
         </entry>
         <entry>
           <string>pinNumber</string>

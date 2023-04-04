@@ -115,16 +115,6 @@
       <pos x="240" y="40"/>
     </visualElement>
     <visualElement>
-      <elementName>Decoder Left.dig</elementName>
-      <elementAttributes/>
-      <pos x="-180" y="-40"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Decoder Right.dig</elementName>
-      <elementAttributes/>
-      <pos x="580" y="-80"/>
-    </visualElement>
-    <visualElement>
       <elementName>D_FF</elementName>
       <elementAttributes>
         <entry>
@@ -910,6 +900,16 @@ end loop</dataString>
         </entry>
       </elementAttributes>
       <pos x="560" y="940"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Decoder Left.dig</elementName>
+      <elementAttributes/>
+      <pos x="-180" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Decoder Right.dig</elementName>
+      <elementAttributes/>
+      <pos x="580" y="-80"/>
     </visualElement>
   </visualElements>
   <wires>

@@ -40,7 +40,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>!OE1</string>
+          <string>~{OE1}</string>
         </entry>
         <entry>
           <string>pinNumber</string>
@@ -270,7 +270,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>!OE2</string>
+          <string>~{OE2}</string>
         </entry>
         <entry>
           <string>pinNumber</string>

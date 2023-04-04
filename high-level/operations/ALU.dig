@@ -2450,8 +2450,8 @@ end loop</dataString>
           <testData>
             <dataString>	Data-1_in Data-2_in Increment Invert Propagate Out_carry Out_or Out_result Data_out Greater Less  Equal
 loop(i, 512)
-	let a = random(1&lt;&lt;7)-128;
-	(a)	  0	    0	      0      0         0         0      0          Z        (a&gt;0)   (a&lt;0) (a=0)
+	let a = random(1&lt;&lt;8);
+	(a)	  0	    0	      0      0         0         0      0          Z        (a&lt;128 &amp; a&gt;0)   (a&gt;127) (a=0)
 end loop</dataString>
           </testData>
         </entry>

@@ -321,7 +321,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="2240" y="3040"/>
+      <pos x="2200" y="3040"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -343,7 +343,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="2240" y="3020"/>
+      <pos x="2200" y="3020"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -365,7 +365,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="2240" y="3000"/>
+      <pos x="2200" y="3000"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -387,7 +387,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="2240" y="2980"/>
+      <pos x="2200" y="2980"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -499,7 +499,7 @@
           <intFormat>bin</intFormat>
         </entry>
       </elementAttributes>
-      <pos x="2240" y="3060"/>
+      <pos x="2200" y="3060"/>
     </visualElement>
     <visualElement>
       <elementName>StaticControlUnit.dig</elementName>
@@ -663,7 +663,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>S-MEM-Store</string>
+          <string>S-MEM-Read</string>
         </entry>
       </elementAttributes>
       <pos x="1400" y="3900"/>
@@ -902,7 +902,7 @@
     </wire>
     <wire>
       <p1 x="1920" y="3020"/>
-      <p2 x="2240" y="3020"/>
+      <p2 x="2200" y="3020"/>
     </wire>
     <wire>
       <p1 x="1180" y="3020"/>
@@ -950,7 +950,7 @@
     </wire>
     <wire>
       <p1 x="1960" y="3040"/>
-      <p2 x="2240" y="3040"/>
+      <p2 x="2200" y="3040"/>
     </wire>
     <wire>
       <p1 x="1180" y="3040"/>
@@ -962,7 +962,7 @@
     </wire>
     <wire>
       <p1 x="1840" y="2980"/>
-      <p2 x="2240" y="2980"/>
+      <p2 x="2200" y="2980"/>
     </wire>
     <wire>
       <p1 x="1240" y="2660"/>
@@ -1002,7 +1002,7 @@
     </wire>
     <wire>
       <p1 x="2020" y="3060"/>
-      <p2 x="2240" y="3060"/>
+      <p2 x="2200" y="3060"/>
     </wire>
     <wire>
       <p1 x="1180" y="3060"/>
@@ -1014,7 +1014,7 @@
     </wire>
     <wire>
       <p1 x="1880" y="3000"/>
-      <p2 x="2240" y="3000"/>
+      <p2 x="2200" y="3000"/>
     </wire>
     <wire>
       <p1 x="1260" y="2680"/>
