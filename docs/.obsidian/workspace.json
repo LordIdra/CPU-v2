@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Control Signals.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Control Signals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clock Cycle.md",
+                "file": "Control Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clock Cycle.md"
+                "file": "Control Signals.md"
               }
             }
           }
@@ -162,15 +162,16 @@
   },
   "active": "eaa00c397469a749",
   "lastOpenFiles": [
-    "GateLabels.drawio",
+    "Clock Cycle.md",
     "Control Signals.md",
     "Instructions.md",
-    "Clock Cycle.md",
-    "Names.md",
+    "Instructions/Arithmetic/ADD.svg",
+    "Instructions/Instructions.drawio",
     "Instructions/Control Signals.svg",
+    "GateLabels.drawio",
+    "Names.md",
     "Untitled Diagram.svg",
     "Untitled Diagram 2.svg",
-    "Instructions/Instructions.drawio",
     "Instructions/Key.svg",
     "Instructions/Miscalleneous/TST.svg",
     "instruction set.drawio",
@@ -178,7 +179,6 @@
     "Instructions/Nibble/BIN.svg",
     "Instructions/Nibble/BIE.svg",
     "Instructions/Nibble/BIL.svg",
-    "Instructions/Nibble/BIG.svg",
     "Instructions/Nibble",
     "Instructions/Direct",
     "Instructions/Miscalleneous",

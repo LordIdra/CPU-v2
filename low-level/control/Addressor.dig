@@ -140,7 +140,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Enable_direct</string>
+          <string>Enable_imm</string>
         </entry>
         <entry>
           <string>pinNumber</string>
@@ -389,11 +389,11 @@
         <entry>
           <string>Testdata</string>
           <testData>
-            <dataString>Data_direct1 Data_direct2 Data_imm Enable_direct ~{Enable_direct} ~{Enable_imm} Data_out
-48           1            200      1             0                1             304
-57           0            205      1             0                1             57
-48           1            200      0             1                0             200
-57           0            205      0             1                0             205</dataString>
+            <dataString>Data_direct1 Data_direct2 Data_imm Enable_imm ~{Enable_direct} ~{Enable_imm} Data_out
+48           1            200      0          0                1             304
+57           0            205      0          0                1             57
+48           1            200      1          1                0             200
+57           0            205      1          1                0             205</dataString>
           </testData>
         </entry>
       </elementAttributes>

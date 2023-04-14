@@ -13,7 +13,6 @@ INV is also known as Two's Complement
 
 ## Logic
 NOT is also known as One's Complement
-
 ![[XOR.svg]]
 ![[AND.svg]]
 ![[ORR.svg]]
