@@ -4,17 +4,30 @@
   <attributes>
     <entry>
       <string>shapeType</string>
-      <shapeType>DIL</shapeType>
+      <shapeType>LAYOUT</shapeType>
     </entry>
     <entry>
       <string>pinCount</string>
       <int>70</int>
     </entry>
     <entry>
+      <string>backgroundColor</string>
+      <awt-color>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </awt-color>
+    </entry>
+    <entry>
       <string>romContent</string>
       <romList>
         <roms/>
       </romList>
+    </entry>
+    <entry>
+      <string>Height</string>
+      <int>30</int>
     </entry>
     <entry>
       <string>Width</string>
@@ -2799,14 +2812,14 @@ Height
         </entry>
         <entry>
           <string>rotation</string>
-          <rotation rotation="1"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>Label</string>
           <string>F-Greater</string>
         </entry>
       </elementAttributes>
-      <pos x="1800" y="3520"/>
+      <pos x="2140" y="3580"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -2817,14 +2830,14 @@ Height
         </entry>
         <entry>
           <string>rotation</string>
-          <rotation rotation="1"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>Label</string>
           <string>F-Less</string>
         </entry>
       </elementAttributes>
-      <pos x="1820" y="3520"/>
+      <pos x="2140" y="3560"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -2835,14 +2848,14 @@ Height
         </entry>
         <entry>
           <string>rotation</string>
-          <rotation rotation="1"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>Label</string>
           <string>F-Equal</string>
         </entry>
       </elementAttributes>
-      <pos x="2100" y="3520"/>
+      <pos x="2140" y="3540"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -2853,14 +2866,14 @@ Height
         </entry>
         <entry>
           <string>rotation</string>
-          <rotation rotation="1"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>Label</string>
           <string>F-NotEqual</string>
         </entry>
       </elementAttributes>
-      <pos x="2120" y="3520"/>
+      <pos x="2140" y="3520"/>
     </visualElement>
     <visualElement>
       <elementName>OR 2-1.dig</elementName>
@@ -4746,10 +4759,6 @@ Height
     </wire>
     <wire>
       <p1 x="3420" y="1800"/>
-      <p2 x="3500" y="1800"/>
-    </wire>
-    <wire>
-      <p1 x="3500" y="1800"/>
       <p2 x="3560" y="1800"/>
     </wire>
     <wire>
@@ -6557,6 +6566,10 @@ Height
       <p2 x="1520" y="3520"/>
     </wire>
     <wire>
+      <p1 x="2120" y="3520"/>
+      <p2 x="2140" y="3520"/>
+    </wire>
+    <wire>
       <p1 x="1520" y="3520"/>
       <p2 x="1680" y="3520"/>
     </wire>
@@ -6735,6 +6748,10 @@ Height
     <wire>
       <p1 x="280" y="3540"/>
       <p2 x="1020" y="3540"/>
+    </wire>
+    <wire>
+      <p1 x="2100" y="3540"/>
+      <p2 x="2140" y="3540"/>
     </wire>
     <wire>
       <p1 x="1340" y="1240"/>
@@ -6925,6 +6942,10 @@ Height
       <p2 x="1360" y="3560"/>
     </wire>
     <wire>
+      <p1 x="1820" y="3560"/>
+      <p2 x="2140" y="3560"/>
+    </wire>
+    <wire>
       <p1 x="2580" y="1260"/>
       <p2 x="2660" y="1260"/>
     </wire>
@@ -7089,6 +7110,10 @@ Height
       <p2 x="1020" y="3580"/>
     </wire>
     <wire>
+      <p1 x="1800" y="3580"/>
+      <p2 x="2140" y="3580"/>
+    </wire>
+    <wire>
       <p1 x="2560" y="60"/>
       <p2 x="2560" y="1340"/>
     </wire>
@@ -7146,7 +7171,7 @@ Height
     </wire>
     <wire>
       <p1 x="1800" y="3160"/>
-      <p2 x="1800" y="3520"/>
+      <p2 x="1800" y="3580"/>
     </wire>
     <wire>
       <p1 x="3080" y="1720"/>
@@ -7306,7 +7331,7 @@ Height
     </wire>
     <wire>
       <p1 x="1820" y="3280"/>
-      <p2 x="1820" y="3520"/>
+      <p2 x="1820" y="3560"/>
     </wire>
     <wire>
       <p1 x="3100" y="60"/>
@@ -7470,7 +7495,7 @@ Height
     </wire>
     <wire>
       <p1 x="2100" y="3280"/>
-      <p2 x="2100" y="3520"/>
+      <p2 x="2100" y="3540"/>
     </wire>
     <wire>
       <p1 x="2100" y="3080"/>
@@ -8322,11 +8347,15 @@ Height
     </wire>
     <wire>
       <p1 x="3500" y="1460"/>
-      <p2 x="3500" y="1840"/>
+      <p2 x="3500" y="1800"/>
     </wire>
     <wire>
       <p1 x="3500" y="560"/>
       <p2 x="3500" y="700"/>
+    </wire>
+    <wire>
+      <p1 x="3500" y="1800"/>
+      <p2 x="3500" y="1840"/>
     </wire>
     <wire>
       <p1 x="2480" y="60"/>

@@ -8,7 +8,7 @@
     </entry>
     <entry>
       <string>pinCount</string>
-      <int>10</int>
+      <int>14</int>
     </entry>
     <entry>
       <string>romContent</string>
@@ -18,7 +18,7 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>16</int>
+      <int>24</int>
     </entry>
   </attributes>
   <visualElements>
@@ -61,7 +61,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Clk-R2_write</string>
+          <string>D-WRT-BufferSecond</string>
         </entry>
         <entry>
           <string>pinNumber</string>
@@ -83,11 +83,11 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>Clk-R1_write</string>
+          <string>D-WRT-BufferFirst</string>
         </entry>
         <entry>
           <string>pinNumber</string>
-          <string>5</string>
+          <string>2</string>
         </entry>
         <entry>
           <string>isHighZ</string>
@@ -251,7 +251,7 @@
         </entry>
         <entry>
           <string>pinNumber</string>
-          <string>6</string>
+          <string>9</string>
         </entry>
         <entry>
           <string>Bits</string>

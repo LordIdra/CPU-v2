@@ -8,7 +8,7 @@
     </entry>
     <entry>
       <string>pinCount</string>
-      <int>28</int>
+      <int>14</int>
     </entry>
     <entry>
       <string>romContent</string>
@@ -18,7 +18,7 @@
     </entry>
     <entry>
       <string>Width</string>
-      <int>16</int>
+      <int>24</int>
     </entry>
   </attributes>
   <visualElements>
@@ -53,7 +53,7 @@
         </entry>
         <entry>
           <string>pinNumber</string>
-          <string>28</string>
+          <string>14</string>
         </entry>
       </elementAttributes>
       <pos x="2420" y="-20"/>
@@ -442,7 +442,7 @@
         </entry>
         <entry>
           <string>pinNumber</string>
-          <string>14</string>
+          <string>7</string>
         </entry>
       </elementAttributes>
       <pos x="1860" y="1860"/>
